@@ -2,13 +2,16 @@
 body {
     color: white;
     background-image: url("about-us.jpg");
+    min-width:500px;
 }
 #professional {
     text-align: left;
-    font-weight: 800px;
-    color: white;
+    font-weight: thicker;
+    color:black;
     text-transform: uppercase;
     font-display: bold;
+    border:3px solid red;
+    margin:0 auto;
 }
 
 
